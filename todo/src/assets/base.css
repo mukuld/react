@@ -9,23 +9,25 @@ html, body {
     margin: auto;
     border-radius: 5px;
     border: 1px solid black;
-    padding: 2px;
+    padding: 10px;
 }
 
 .container {
     width: fit-content;
     background-color: blanchedalmond;
     border-radius: 7px;
-    padding: 5px;
+    padding: 10px;
     margin: auto;
     border: 1px solid black;
 }
 
 .submit-button {
     background-color: aquamarine;
-    margin-right: 2px;
+    margin-right: 5px;
 }
 
 .clearall {
     background-color: lightcoral;
+    padding-left: 3px;
+    margin-left: 3px;
 }

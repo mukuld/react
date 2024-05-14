@@ -43,7 +43,7 @@ function App() {
   return (
     <div className="main-container">
       <div className="container">
-
+        <h2>My things to do</h2>
         <TodoList todos={todos} toggleTodo={toggleTodo}/>
         <input ref={todoNameRef} type="text" />
         <div>
